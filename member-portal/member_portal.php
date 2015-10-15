@@ -5,7 +5,7 @@ Plugin URI:
 Description: Membership management for AMAC.
 Version:     1.0
 Author:      hicaliber
-Author URI:  http://hicaliber.com.au/
+Author URI:  https://linkedin.com/in/jeffreymoya
 License:     GPLv2
 */
 

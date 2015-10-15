@@ -2,11 +2,10 @@
 
 /*
 Plugin Name: Hicaliber Slick Slider
-Plugin URI: http://hicaliber.net.au
 Description: Simple Slick Slider
 Version: 1.0
-Author: hicaliber
-Author URI: http://hicaliber.net.au
+Author: jeffreymoya
+Author URI: https://linkedin.com/in/jeffreymoya
 */
 
 /**

@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Hicaliber Document Handler
-Plugin URI: http://hicaliber.net.au
+Plugin Name: Document Handler
+Plugin URI:
 Description: Handles generation, storing and request handling of documents
 Version: 1.0
-Author: hicaliber
-Author URI: http://hicaliber.net.au
+Author: jeffreymoya
+Author URI: https://linkedin.com/in/jeffreymoya
 */
 include 'includes/doc-generator.php';
 

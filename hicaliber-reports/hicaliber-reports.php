@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Hicaliber Reports
-Plugin URI: http://hicaliber.net.au
+Plugin URI: 
 Description: Hicaliber Reporting Tool
 Version: 1.0
-Author: hicaliber
-Author URI: http://hicaliber.net.au
+Author: jeffreymoya
+Author URI: https://linkedin.com/in/jeffreymoya
 */
 
 include 'includes/report-controller.php';
