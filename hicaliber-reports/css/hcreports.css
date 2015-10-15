@@ -1,0 +1,68 @@
+#reports-form input, #reports-form select {
+	font-size: 13px	;
+	background-color: #F9F9F9;
+}
+#reports-form label {
+	display: block;
+}
+#reports-form .input {
+	float: left;
+	margin-right: 20px;
+}
+#data-table {
+	background-color: #F9F9F9;
+	border: 1px solid #D4D4D4;
+	border-spacing: 0;
+	clear: both;
+}
+#data-table th {
+	text-align: left;
+	border-bottom: 1px solid #D4D4D4;
+}
+#data-table tr:nth-child(even) {
+	background-color: #F3F3F3;
+}
+#data-table td, th {
+	padding: 10px;
+}
+#data-table td:last-child, th:last-child {
+	border: none;
+}
+.report-info {
+	float: left;
+	font-style: italic;
+	font-weight: 600;
+}
+.error {
+	clear: both;
+	float: left;
+	margin: 20px 0 !important;
+}
+.trans-message {
+	max-width: 400px;
+}
+.export_opts {
+	float: right;
+	margin: 1em;
+}
+
+.pagination
+{
+    clear: both;
+}
+.pagination a 
+{
+    margin: 10px 5px;
+    display: block;
+    float: left;
+    background-color: #F9F9F9;
+    width: 25px;
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid #D4D4D4;  
+}
+.pagination .active 
+{
+    background-color: transparent;
+    color: #D4D4D4;
+}

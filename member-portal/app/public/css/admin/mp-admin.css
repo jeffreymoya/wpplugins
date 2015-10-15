@@ -1,0 +1,22 @@
+.mp-admin-form input, .mp-admin-form select {
+	display: block;
+	margin: 5px 0 15px 0;
+	font-size: 0.8rem;
+}
+
+#m_assigned_addons {
+	background-color: #fff;
+    padding: 1px 20px;
+    border: 1px solid rgb(221, 221, 221);
+    width: 30%;
+    margin-bottom: 20px;
+}
+
+#m_assigned_addons img {
+	vertical-align: sub;
+	margin-right: 15px;
+}
+
+#m_assigned_addons div, #m_assigned_addons a {
+
+}
